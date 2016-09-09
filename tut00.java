@@ -4,5 +4,6 @@ public class tut00 {
         double halfvalue = Double.parseDouble(value)/2;
         System.out.printf("Halve the value: %.2f\n", halfValue);
                 
+        System.out.println("Example");
     }
 }
